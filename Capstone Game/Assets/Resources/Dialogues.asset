@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5138cad41b22414aa4f3d66e86a5683, type: 3}
+  m_Name: Dialogues
+  m_EditorClassIdentifier: 
+  dialogues:
+  - name: Dungeon
+    sentences:
+    - Are you sure you want to go to the Dungeon?
+  - name: HubWorld
+    sentences:
+    - Are you sure you want to return to the HubWorld?
+  - name: Suit Upgrade Shop
+    sentences:
+    - Welcome to the upgrade shop!
+  - name: Pet Trainer
+    sentences:
+    - Welcome to the pet trainer!
